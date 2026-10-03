@@ -1,0 +1,10 @@
+abacaxi
+uva
+carro
+moto
+sapato
+sol
+lua
+cubo
+piramide
+sistema
